@@ -1,3 +1,13 @@
+
+NAME:CHANDRU.P
+
+
+REG NO:212223110007
+
+
+DEPT:CSE(IOT)
+
+
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
